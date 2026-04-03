@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../component/layout';
-import Button from '../component/button';
+import Button from '../component/Button';
 
 const Skills =() =>{
     return(
