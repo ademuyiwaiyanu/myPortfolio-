@@ -4,7 +4,7 @@ import pet from "../../assets/img/pet.jpeg";
 import steriscollection from "../../assets/img/steriscollection.png";
 import tinusapparel from "../../assets/img/tinusapparel.png";
 import graphicswebsite from "../../assets/img/graphicswebsite.png";
-import Button from "../../component/button";
+import Button from "../../component/Button";
 import { Link } from 'react-router-dom';
 
 const Project = () => {
